@@ -5,3 +5,6 @@ Arduino Uno : Arduino/Genuino Uno is a microcontroller board based on the ATmega
 
 In this project we made seven sigment display only with LED and controller(Arduino). Digital I/O pins are connected to leds by controlling those it made seven segmen display
 
+![Alt Text](pic1.png)
+![Alt Text](pic2.png)
+
